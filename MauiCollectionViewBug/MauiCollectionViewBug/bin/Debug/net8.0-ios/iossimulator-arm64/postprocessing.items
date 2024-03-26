@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MauiCollectionViewBug.app/MauiCollectionViewBug">
+      <BCSymbolMapName>MauiCollectionViewBug.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MauiCollectionViewBug.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\alexstewart\Library\Caches\Xamarin\mtbs\builds\MauiCollectionViewBug\5ef28ade199e0fbb4f21abca11547addb979bcb16b2637791a1554460bd59b76\obj\Debug\net8.0-ios\iossimulator-arm64\mtouch-symbols.list</SymbolFile>
+      <DSymName>MauiCollectionViewBug.app.dSYM</DSymName>
+      <SourceProjectPath>D:\git\maui-cv-bug\MauiCollectionViewBug\MauiCollectionViewBug</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
